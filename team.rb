@@ -20,17 +20,17 @@ end
 
 # インスタンスの生成と、変数への代入
 
-Kyojin = Team.new('Giants',67,45,8)
-Hannshin = Team.new('Tigers',60,53,7)
-Chuunichi = Team.new('Dragons',60,55,5)
-Yokohama = Team.new('BayStars',56,58,6)
-Hiroshima = Team.new('Carp',52,56,12)
-Yakuruto = Team.new('Swallows',41,69,10)
+kyojin2020score = Team.new('Giants',67,45,8)
+hannshin2020score = Team.new('Tigers',60,53,7)
+chuunichi2020score = Team.new('Dragons',60,55,5)
+yokohama2020score = Team.new('BayStars',56,58,6)
+hiroshima2020score = Team.new('Carp',52,56,12)
+yakuruto2020score = Team.new('Swallows',41,69,10)
 
 # インスタンスの使用
-Kyojin.show_team_result
-Hannshin.show_team_result
-Chuunichi.show_team_result
-Yokohama.show_team_result
-Hiroshima.show_team_result
-Yakuruto.show_team_result
+kyojin2020score.show_team_result
+hannshin2020score.show_team_result
+chuunichi2020score.show_team_result
+yokohama2020score.show_team_result
+hiroshima2020score.show_team_result
+yakuruto2020score.show_team_result
